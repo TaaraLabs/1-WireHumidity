@@ -3,4 +3,4 @@
 
 1-Wire Humidity and Temperature sensor
 
-[Official WebSite](https://taaralabs.eu/oh1)
+[WebSite](https://taaralabs.eu/oh1)
